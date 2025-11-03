@@ -1,0 +1,13 @@
+{
+  "name": "account-transfer-system",
+  "version": "1.0.0",
+  "description": "Account Transfer System with Balance Validation in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}
